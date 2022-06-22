@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo]()
-- Live Site URL: [Live Site]()
+- Solution URL: [GitHub Repo](https://github.com/varonalearns/Single-price-grid-component)
+- Live Site URL: [Live Site](https://single-price-grid-component-nu-self.vercel.app/)
 
 ## My process
 
